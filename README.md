@@ -1,2 +1,9 @@
-# RaceSimulator
-Really simple race simulator made for experimenting with threads and forks.
+![PAGE1\_PROJECT](https://i.imgur.com/3KJfUfL.png)
+![PAGE2\_PROJECT](https://i.imgur.com/fQnY1F2.png)
+![PAGE3\_PROJECT](https://i.imgur.com/zvnVAYV.png)
+![PAGE4\_PROJECT](https://i.imgur.com/FKh8ocB.png)
+![PAGE5\_PROJECT](https://i.imgur.com/UnoOdb8.png)
+![PAGE6\_PROJECT](https://i.imgur.com/15ANmTx.png)
+![PAGE7\_PROJECT](https://i.imgur.com/KFzyFzP.png)
+![PAGE8\_PROJECT](https://i.imgur.com/05ZOKId.png)
+![PAGE9\_PROJECT](https://i.imgur.com/ZRrydes.png)
